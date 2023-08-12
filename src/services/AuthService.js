@@ -1,5 +1,5 @@
-const API_HOST = 'http://localhost:5000';
-
+// const API_HOST = 'http://localhost:5000';
+const API_HOST = 'https://auth-task-nodejs.domain.ahmedkira.com'
 
 
 export const LoginWithEmail = async ({username, password}) => {
